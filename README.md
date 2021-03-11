@@ -1,0 +1,3 @@
+# SpotifyのリンクAppleMusicに飛ばすマン
+
+です  
